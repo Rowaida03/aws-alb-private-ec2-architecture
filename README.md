@@ -4,3 +4,8 @@ Production style AWS architecture using an Application Load Balancer to securely
 ## Architecture Diagram
 
 ![AWS ALB Architecture](content/architecture.drawio.png)
+
+
+## Resource Map
+
+![Map showing connections](resource-map.png)
