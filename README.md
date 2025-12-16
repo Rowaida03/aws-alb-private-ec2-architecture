@@ -8,4 +8,4 @@ Production style AWS architecture using an Application Load Balancer to securely
 
 ## Resource Map
 
-![Map showing connections](resource-map.png)
+![Map showing connections](content/resource-map.png)
